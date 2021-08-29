@@ -1,0 +1,43 @@
+img {
+  border-radius: 50%;
+  width: 50mm;
+}
+
+.navbar {
+  background: #7f7fd5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.jumbotron {
+  padding: 7rem 0rem 17.5rem 0rem;
+  background-color: #f9f9f9;
+}
+
+#about {
+  padding: 6rem 0rem 6rem 0rem;
+  background: #7f7fd5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #30475e;
+}
+
+#interests {
+  padding: 6rem 0rem 6rem 0rem;
+  background-color: #f9f9f9;
+}
+
+.card {
+  background-color: #f9f9f9;
+}
+
+#projects {
+  color: #30475e;
+  background-color: #f9f9f9;
+  padding-top: 6rem;
+}
+#contact {
+  padding: 6rem 0rem 5rem 0rem;
+  background-color: #f9f9f9;
+  color: #30475e;
+}
